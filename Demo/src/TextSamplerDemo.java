@@ -36,7 +36,7 @@
  *   images/Pig.gif
  *   images/sound.gif
  */
-
+//hello worldkfkdjkfjdskjfkjajfkakdjf
 import javax.swing.*;
 import javax.swing.text.*;
 
@@ -49,7 +49,9 @@ import java.io.IOException;
 
 public class TextSamplerDemo extends JPanel
                              implements ActionListener {
-    private String newline = "\n";
+	private String fuck = "\n";
+    
+	private String newline = "\n";
     protected static final String textFieldString = "JTextField";
     protected static final String passwordFieldString = "JPasswordField";
     protected static final String ftfString = "JFormattedTextField";
