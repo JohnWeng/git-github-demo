@@ -50,7 +50,7 @@ import java.io.IOException;
 public class TextSamplerDemo extends JPanel
                              implements ActionListener {
 	private String fuckfuckfuck = "\n";
-    
+    // this is new change made
 	private String newline = "\n";
     protected static final String textFieldString = "JTextField";
     protected static final String passwordFieldString = "JPasswordField";
